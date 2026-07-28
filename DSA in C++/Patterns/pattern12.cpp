@@ -11,9 +11,10 @@ class Solution{
             for(int j=0; j<=(2*n-1)-(2*i); j++){
                 cout<<" ";
             }
+            int b=i;
             for(int j=0; j<i; j++){
-                for(int k=0; k<=)
-                cout<<n;
+                cout<<b;
+                b--;
             }
             cout<<endl;
         }
@@ -27,5 +28,4 @@ int main(){
     sol.pattern12(x);
 }
 
-
-//later
+//solved by myself, took 3 days
